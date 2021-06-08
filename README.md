@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @APoonja15
-- 👀 I’m interested in Data science and data analytics 
+- 👀 I’m interested in Data Science and Data Analytics 
 - 🌱 I’m currently learning the fundamentals of Data Science with John Hopkins University via Coursera
 
 
